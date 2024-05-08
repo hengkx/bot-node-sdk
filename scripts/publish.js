@@ -21,7 +21,7 @@ const continuePublish = () => {
 
   // 执行 publish
   log('----- 3. publish(start) -----');
-  execSync('npm publish');
+  execSync('npm publish --access public');
   log('----- publish(end) -----');
 
   // push 标签
