@@ -1,5 +1,5 @@
 {
-  "name": "qq-guild-bot",
+  "name": "@hengkx/qq-bot",
   "version": "2.10.0",
   "description": "QQ频道机器人NodeSDK",
   "publishConfig": {
